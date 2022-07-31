@@ -5,7 +5,7 @@ This project implements two-view stereo and multi-view (plane-sweep) stereo algo
 
 Screenshots of visualizations using K3D library are shown below.
 
-## 1. Two View Stereo
+## [1. Two View Stereo](https://github.com/yichengxia/Penn-CIS580/blob/main/two_view.ipynb)
 (a) Reconstruction using SSD kernel
 ![SSD](images/SSD.png)
 
@@ -18,5 +18,5 @@ Screenshots of visualizations using K3D library are shown below.
 (d) Multi-pair aggregation
 ![pointcloud-1](images/pointcloud-1.png)
 
-## 2. Plane-Sweep Stereo
+## [2. Plane-Sweep Stereo](https://github.com/yichengxia/Penn-CIS580/blob/main/plane_sweep.ipynb)
 ![pointcloud-2](images/pointcloud-2.png)
